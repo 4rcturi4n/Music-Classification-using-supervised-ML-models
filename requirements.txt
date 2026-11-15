@@ -1,0 +1,9 @@
+numpy
+pandas
+librosa
+scikit-learn
+xgboost
+yellowbrick
+matplotlib
+seaborn
+jupyter
